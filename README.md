@@ -1,17 +1,21 @@
 # Captstone_MIT_Case
+## Link to Florida Citrus Statistics 2021 - Best Source (but pdf)
+https://www.nass.usda.gov/Statistics_by_State/Florida/Publications/Citrus/Citrus_Statistics/2020-21/fcs2021b.pdf
 
-##All information from Orange file: https://www.nass.usda.gov/Statistics_by_State/Florida/Publications/Citrus/index.php
+## All information from Orange file: 
+https://www.nass.usda.gov/Statistics_by_State/Florida/Publications/Citrus/index.php
 
-##USDA's National Agricultural Statistics Service
-Florida Field Office - https://www.nass.usda.gov/Statistics_by_State/Florida/index.php
+## USDA's National Agricultural Statistics Service Florida Field Office - 
+https://www.nass.usda.gov/Statistics_by_State/Florida/index.php
+https://www.nass.usda.gov/Statistics_by_State/Florida/Publications/Annual_Statistical_Bulletin/index.php
 
-##Florida Citrus Data
+## Florida Citrus Data
 [DEFAULT]
 URL=https://quickstats.nass.usda.gov/results/D266D4D1-8288-3DA2-9FCD-171A6BBA79E1
 [InternetShortcut]
 URL=https://quickstats.nass.usda.gov/results/D266D4D1-8288-3DA2-9FCD-171A6BBA79E1
 
-##File '2023_hourly'
+## File '2023_hourly'
 Contains all weather data from florida, can be 15 minute, hourly, or daily.
 Full data from 1997-2023
 Columns -
@@ -39,3 +43,5 @@ Avg	Solar Radiation (w/m2)
 Avg	Solar Radiation (MJ/m2) 
 Sum	Number of Observations
 
+## Florida Division of Fruit and Vegetables 
+https://www.fdacs.gov/Divisions-Offices/Fruit-and-Vegetables
