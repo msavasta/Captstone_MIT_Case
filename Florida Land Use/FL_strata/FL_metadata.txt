@@ -1,0 +1,432 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        United States Department of Agriculture, National Agricultural
+        Statistics Service, Research and Development Division, Geospatial
+        Information Branch, Area Frame Section
+      Publication_Date: 2010
+      Title: Stratification of Florida 2010
+      Publication_Information:
+        Publication_Place: Fairfax, Virginia
+        Publisher: U.S. Department of Agriculture, National Agricultural Statistics Service
+      Online_Linkage: <http://www.nass.usda.gov/research>
+  Description:
+    Abstract:
+      The United States Department of Agriculture (USDA), National
+      Agricultural Statistics Service (NASS) area sampling frame is a
+      delineation of all parcels of land for the purpose of later sampling the
+      parcels.  The area frame is constructed by visually interpreting satellite
+      imagery to divide a state into homogenous land use areas (strata) based
+      on percent cultivated.  The strata are typically defined as low, medium or
+      high percent cultivated, non-agricultural land, urban use, agri-urban, or
+      water.  The boundaries of the strata usually follow identifiable features
+      such as roads, railroads and waterways.  The strata boundaries do not
+      coincide with any political boundaries, with the exception of state
+      boundaries.
+
+      Though all of the dates for this frame point to 2004, this is only when the
+      older frame from the paper map was converted over to digital form. All of the
+      stratification work for the paper maps and was completed in 1990.
+    Purpose:
+      These data are intended for geographic display and analysis at the state
+      level.  The data should be displayed and analyzed at a scale of
+      1:100,000 or smaller (e.g., 1:250,000, etc.).  The strata data are
+      provided "as is".  USDA/NASS does not warrant results you may obtain
+      using the strata data.
+    Supplemental_Information: N/A
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2010
+    Currentness_Reference: N/A
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -87.66
+      East_Bounding_Coordinate: -80.26
+      North_Bounding_Coordinate: 31.02
+      South_Bounding_Coordinate: 24.46
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus:
+        National Agricultural Statistics Service, U.S. Department of
+        Agriculture, 1987, Area Frame Design for Agricultural Surveys,
+        Washington, D.C., NASS/USDA.
+      Theme_Keyword: Stratification
+      Theme_Keyword: Area sampling frame
+      Theme_Keyword: Land use classes (strata)
+    Place:
+      Place_Keyword_Thesaurus:
+        U.S. Department of Commerce, 1987, Codes for the Identification of the
+        States, the District of Columbia and the Outlying Areas of The United
+        States, and Associated Areas (Federal Information Processing Standard
+        5-2):  Washington, D.C., National Institute of Standards and Technology.
+      Place_Keyword: United States
+      Place_Keyword: USA
+      Place_Keyword: Florida
+  Access_Constraints: None
+  Use_Constraints:
+    None.  Acknowledgment of the U.S. Department of Agriculture, National
+    Agricultural Statistics Service would be appreciated in products derived
+    from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Matt Deaton
+        Contact_Organization: USDA/NASS/RDD/AFS
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 3251 Old Lee Highway, Suite 301
+        City: Fairfax
+        State_or_Province: VA
+        Postal_Code: 22030
+      Contact_Voice_Telephone: 703-877-8000
+      Contact_Electronic_Mail_Address: HQ_RD_OD@nass.usda.gov
+  Data_Set_Credit: Area Frame Section staff
+  Native_Data_Set_Environment: Environmental Systems Research Institute ArvView 3.0 Shapefile
+
+Data_Quality_Information:
+  Logical_Consistency_Report: Checks for topological consistency were performed on this data set.
+  Completeness_Report:
+    There are known gaps and overlaps.  This data set includes the area in
+    square miles and number of acres for each strata.  Boundaries may not be
+    coincident with strata boundaries of adjacent states.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The sources used for digitizing strata boundaries are 1:100,000 scale
+        Digital Raster Graphics
+      Quantitative_Horizontal_Positional_Accuracy_Assessment:
+        Horizontal_Positional_Accuracy_Value: 5.0
+        Horizontal_Positional_Accuracy_Explanation:
+          Not more than 10 percent of the test points shall be in error by more than 1/50
+          of an inch on origial topo map.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geologic Survey (USGS)
+          Publication_Date: 1979 - 1991
+          Title: USGS Topographic Quadrangles
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geologic Survey
+      Source_Scale_Denominator: 100000
+      Type_of_Source_Media: On-line
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Ending_Date: 1990
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: TopoDRG100
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Farm Service Agency
+          Publication_Date: 2006 - 2007
+          Title: National Agricultural Imaging Program (NAIP)
+          Publication_Information:
+            Publication_Place: Salt Lake City, UT
+            Publisher: Aerial Photography Field Office (APFO)
+      Source_Scale_Denominator: 2 meter resolution
+      Type_of_Source_Media: CD-Rom
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2007
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: NAIP
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey (USGS)
+          Publication_Date: 1979 - 1991
+          Title: USGS Topographic Quadrangles
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: On-line
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Ending_Date: 1990
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: TopoDRG24
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: United States Census Bureau
+          Publication_Date: 2000
+          Title: TIGER Digital Vector Files
+          Publication_Information:
+            Publication_Place: Suitland, MD
+            Publisher: U.S. Census Bureau
+      Type_of_Source_Media: CD-Rom
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: TIGER
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NASA
+          Publication_Date: 2007 - 2008
+          Title: Landsat 5 Thematic Mapper Imagery
+          Publication_Information:
+            Publication_Place: Lanham, MD
+            Publisher: Space Imaging
+      Source_Scale_Denominator: 250,000
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2008
+        Source_Currentness_Reference: Scene date
+      Source_Citation_Abbreviation: TM5
+      Source_Contribution: Spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Agricultural Statistics Service
+          Publication_Date: 2009
+          Title: Area Frame Design for Agricultural Surveys
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: NASS/USDA
+      Type_of_Source_Media: Paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: AFSPaper
+      Source_Contribution: Spatial and attribute information
+    Process_Step:
+      Process_Description:
+        The area sampling frame for Florida was constructed for use in 2010
+        and was based on USGS 1:24,000 and 1:100,000 scale topographic maps,
+        1:250,000 scale Landsat imagery, and 2 meter resolution NAIP imagery.
+        Individual county files were merged into single statefile. The coordinates
+        for the strata polygons are unprojected to geographic latitude and longitude
+        (decimal degrees).  The spatial data file format is Environmental Systems
+        Research Institute's ArcView shapefile format. Gaps and overlaps were corrected
+        within and ESRI personal geodatabase.
+
+
+
+      Source_Used_Citation_Abbreviation: TopoDRG100
+      Source_Used_Citation_Abbreviation: NAIP
+      Source_Used_Citation_Abbreviation: TopoDRG24
+      Source_Used_Citation_Abbreviation: TIGER
+      Source_Used_Citation_Abbreviation: TM5
+      Source_Used_Citation_Abbreviation: AFSPaper
+      Process_Date: 2009
+
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference:
+    U.S. Department of Commerce, 1990, Counties and Equivalent
+    Entities of The United States, Its Possessions, and
+    Associated Areas (Federal Information Processing Standard
+    6-4): Washington, D.C.  National Institute of Standards and
+    Technology.
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-Polygon
+      Point_and_Vector_Object_Count: 8,335
+
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 17
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.9996
+            Longitude_of_Central_Meridian: -99.00
+            Latitude_of_Projection_Origin: 0.0
+            False_Easting: 500000.00
+            False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 30
+          Ordinate_Resolution: 30
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference 80
+      Semi-major_Axis: 6378137.00
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Land Use Strata
+      Entity_Type_Definition: Homogeneous land use area based on percent cultivated
+      Entity_Type_Definition_Source:
+        U.S. Department of Agriculture, National Agricultural Statistics
+        Service
+    Attribute:
+      Attribute_Label: Strata
+      Attribute_Definition: Land use category based on percent cultivated
+      Attribute_Definition_Source:
+        U.S. Department of Agriculture, National Agricultural Statistics
+        Service
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 13
+          Enumerated_Domain_Value_Definition: > 50% CULTIVATED
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 17
+          Enumerated_Domain_Value_Definition: >33% CITRUS
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18
+          Enumerated_Domain_Value_Definition: >50% CULTIVATED SURARCANE
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 21
+          Enumerated_Domain_Value_Definition: 33-50% CULTIVATED
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 22
+          Enumerated_Domain_Value_Definition: 15-33% CULTIVATED
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 27
+          Enumerated_Domain_Value_Definition: 15-33% CITRUS
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 31
+          Enumerated_Domain_Value_Definition: AGRI-URBAN: >100 DWELLINGS PER SQUARE MILE
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 32
+          Enumerated_Domain_Value_Definition: COMMERCIAL: >100 DWELLINGS PER SQUARE MILE
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 40
+          Enumerated_Domain_Value_Definition: SPEC40: NORTH <15% CULTIVATED
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 42
+          Enumerated_Domain_Value_Definition: SPEC40: SOUTH <15% CULTIVATED
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 50
+          Enumerated_Domain_Value_Definition: NON-AGRICULTURAL
+          Enumerated_Domain_Value_Definition_Source:
+            "2009 Area Frame Design Information, Implementation Years of
+            Current NASS Area Frames", NASS Area Frame Section, 2009.
+    Attribute:
+      Attribute_Label: Sum_area
+      Attribute_Definition: The stratum area in square miles.
+      Attribute_Definition_Source:
+        U.S. Department of Agriculture, National Agricultural Statistics
+        Service
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 375.80 (actual value, not range)
+          Range_Domain_Maximum: 20,010.11
+    Attribute:
+      Attribute_Label: Sum_acres
+      Attribute_Definition: The amount of acres in a stratum.
+      Attribute_Definition_Source:
+        U.S. Department of Agriculture, National Agricultural Statistics
+        Service
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 240,508.15 (actual value, not range)
+          Range_Domain_Maximum: 12,806,470 (actual value, not range)
+
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USDA/NASS/RDD/GIB/AFS
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 3251 Old Lee Highway, Suite 301
+        City: Fairfax
+        State_or_Province: VA
+        Postal_Code: 22030
+      Contact_Voice_Telephone: 703-877-8000
+      Contact_Instructions: N/A
+  Distribution_Liability:
+    Users of the strata data are solely responsible for interpretations made
+    from the product.  The strata data are provided "as is".  USDA/NASS does
+    not warrant results you may obtain by using the strata data.  Feel free to
+    contact our staff at (HQ_RD_OD@nass.usda.gov) if technical questions arise
+    in the use of the strata data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://www.nass.usda.gov/research>
+    Fees: There is no charge for the online option.
+    Ordering_Instructions: N/A
+
+
+Metadata_Reference_Information:
+  Metadata_Date: 20140405
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Matthew Deaton
+        Contact_Organization: USDA/NASS/RDD/GIB/AFS
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 3251 Old Lee Highway, Suite 301
+        City: Fairfax
+        State_or_Province: VA
+        Postal_Code: 22030
+      Contact_Voice_Telephone: 703-877-8000 x151
+      Contact_Electronic_Mail_Address: HQ_RD_OD@nass.usda.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+
