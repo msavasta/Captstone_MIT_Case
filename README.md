@@ -16,6 +16,7 @@ URL=https://quickstats.nass.usda.gov/results/D266D4D1-8288-3DA2-9FCD-171A6BBA79E
 URL=https://quickstats.nass.usda.gov/results/D266D4D1-8288-3DA2-9FCD-171A6BBA79E1
 
 ## File '2023_hourly'
+https://fawn.ifas.ufl.edu/data/
 Contains all weather data from florida, can be 15 minute, hourly, or daily.
 Full data from 1997-2023
 Columns -
